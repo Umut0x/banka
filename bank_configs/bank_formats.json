@@ -1,0 +1,151 @@
+[
+    {
+        "id": "garanti",
+        "name": "Garanti Bankası",
+        "header_identifier": [
+            "Tarih",
+            "Açıklama",
+            "Tutar",
+            "Bakiye"
+        ],
+        "date_col": "Tarih",
+        "description_col": "Açıklama",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "Tutar",
+        "balance_col": "Bakiye",
+        "created_at": "2025-03-27T14:08:02.268142"
+    },
+    {
+        "id": "is_bankasi",
+        "name": "İş Bankası",
+        "header_identifier": [
+            "Tarih/Saat",
+            "İşlem Tutarı*",
+            "Açıklama"
+        ],
+        "date_col": "Tarih/Saat",
+        "description_col": "Açıklama",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "İşlem Tutarı*",
+        "balance_col": "Bakiye",
+        "created_at": "2025-03-27T14:08:02.268153"
+    },
+    {
+        "id": "akbank",
+        "name": "Akbank",
+        "header_identifier": [
+            "Tarih",
+            "Tutar",
+            "Açıklama"
+        ],
+        "date_col": "Tarih",
+        "description_col": "Açıklama",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "Tutar",
+        "balance_col": "Bakiye",
+        "created_at": "2025-03-27T14:08:02.268156"
+    },
+    {
+        "id": "ziraat",
+        "name": "Ziraat Bankası",
+        "header_identifier": [
+            "Tarih",
+            "Açıklama",
+            "Borç",
+            "Alacak",
+            "Bakiye"
+        ],
+        "date_col": "Tarih",
+        "description_col": "Açıklama",
+        "debit_col": "Borç",
+        "credit_col": "Alacak",
+        "balance_col": "Bakiye",
+        "skip_rows": 0,
+        "active": true,
+        "created_at": "2025-03-27T14:08:02.268159"
+    },
+    {
+        "id": "vakıfbabk",
+        "name": "VakıfBank",
+        "header_identifier": [
+            "HAREKET TARIH",
+            "TUTAR",
+            "AÇIKLAMA"
+        ],
+        "date_col": "HAREKET TARIH",
+        "description_col": "AÇIKLAMA",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "TUTAR",
+        "balance_col": "BAKİYE",
+        "created_at": "2025-04-09T11:15:06.157825"
+    },
+    {
+        "id": "denizbank",
+        "name": "Deniz Bank",
+        "header_identifier": [
+            "Tarih",
+            "Açıklama",
+            "Tutar (TL)"
+        ],
+        "date_col": "Tarih",
+        "description_col": "Açıklama",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "Tutar (TL)",
+        "balance_col": "Güncel Bakiye (TL)",
+        "created_at": "2025-04-09T11:17:03.837325"
+    },
+    {
+        "id": "yapıkredi ",
+        "name": "YAPIKREDİ",
+        "header_identifier": [
+            "Tarih",
+            "Açıklama",
+            "İşlem Tutarı"
+        ],
+        "date_col": "Tarih",
+        "description_col": "Açıklama",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "İşlem Tutarı",
+        "created_at": "2025-04-09T11:23:29.446031"
+    },
+    {
+        "id": "garantibank2",
+        "name": "Garanti Bank İşlem Olanı",
+        "header_identifier": [
+            "İşlem Tarihi",
+            "İşlem Açıklaması",
+            "İşlem Tutarı",
+            "Bakiye"
+        ],
+        "date_col": "İşlem Tarihi",
+        "description_col": "İşlem Açıklaması",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "Bakiye",
+        "balance_col": "İşlem Tutarı",
+        "created_at": "2025-04-16T02:03:29.144745"
+    },
+    {
+        "id": "akbank2",
+        "name": "Akbank2",
+        "header_identifier": [
+            "TARİH",
+            "MEBLAĞ",
+            "AÇIKLAMA",
+            "BAKİYE"
+        ],
+        "date_col": "TARİH",
+        "description_col": "AÇIKLAMA",
+        "skip_rows": 0,
+        "active": true,
+        "amount_col": "MEBLAĞ",
+        "balance_col": "BAKİYE",
+        "created_at": "2025-04-16T02:08:52.446430"
+    }
+]
